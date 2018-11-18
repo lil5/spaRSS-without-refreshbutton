@@ -58,7 +58,7 @@
     <string name="error_feed_error">O website do feed está inacessível.</string>
     <string name="error_feed_process">O feed não pôde ser processado.</string>
     <string name="error_feed_url_exists">O endereço já existe.</string>
-    <string name="error_feed_import">O arquivo selecionado não pôde ser importado.</string>
+    <string name="error_feed_import">O ficheiro selecionado não pôde ser importado.</string>
     <string name="error_feed_export">A exportação falhou. Certifique-se de que o cartão SD pode ser escrito.</string>
     <string name="error_external_storage_not_available">O armazenamento externo (ex. cartão SD) não está disponível.</string>
     <string name="feed_url">URL</string>
@@ -81,7 +81,7 @@
     <string name="accept">ACEITAR</string>
     <string name="reject">REJEITAR</string>
     <string name="feed_search">Busca de feeds</string>
-    <string name="select_file">Selecionar o arquivo (SD-root)</string>
+    <string name="select_file">Selecionar o ficheiro (SD-root)</string>
     <string name="question_delete_feed">Tem certeza de que deseja excluir este feed?</string>
     <string name="question_delete_group">"Tem a certeza de que deseja apagar este grupo e todos os seus feeds? "</string>
     <string name="question_delete_filter">Tem certeza de que deseja excluir este filtro?</string>
@@ -125,7 +125,7 @@
     <string name="see_link">Abrir no browser</string>
     <string name="cant_open_link">Nenhum aplicativo encontrado para este link</string>
     <string name="open_enclosure">Abrir anexo</string>
-    <string name="file">Arquivo</string>
+    <string name="file">Ficheiro</string>
     <string name="download_and_save">Fazer download e salvar</string>
     <string name="open_link">Abrir link</string>
     <string name="tip_sentence">Dica: deslize para a esquerda para marcar como lido e deslize para a direita para marcar como favorito</string>
