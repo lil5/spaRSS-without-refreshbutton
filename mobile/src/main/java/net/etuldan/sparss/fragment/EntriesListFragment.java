@@ -307,7 +307,7 @@ public class EntriesListFragment extends SwipeRefreshListFragment {
             menu.findItem(R.id.menu_all_read).setVisible(false);
         }
         if (EntryColumns.FAVORITES_CONTENT_URI.equals(mUri)) {
-            menu.findItem(R.id.menu_refresh).setVisible(false);
+            //menu.findItem(R.id.menu_refresh).setVisible(false);
         } else {
             menu.findItem(R.id.menu_share_starred).setVisible(false);
         }
@@ -335,11 +335,6 @@ public class EntriesListFragment extends SwipeRefreshListFragment {
                         ));
                     }
                 }
-                return true;
-            }
-            case R.id.menu_refresh: {
-                downloadUnmobilitedEntries();
-                startRefresh();
                 return true;
             }
             case R.id.menu_all_read: {
